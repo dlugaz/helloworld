@@ -1,0 +1,6 @@
+/makefile
+/objects.mk
+/pinmux/
+/sources.mk
+/subdir_rules.mk
+/subdir_vars.mk

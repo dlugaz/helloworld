@@ -1,0 +1,4 @@
+Pin#, PORT IO, Function, Direction
+64,GP09,GPIO09,Input
+1,GP10,GPIO10,Input
+2,GP11,GPIO11,Input
